@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://waitbright.tech"
+baseurl = "https://waitbright.cn"
 languageCode = "zh-CN"
 paginate = 10
 title = "Hugo Theme Stack Starter"
@@ -14,4 +14,4 @@ defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+disqusShortname = "hugo-theme-my-blog"
